@@ -8,9 +8,7 @@
 
 ### 主要成就
 
-![](https://img.shields.io/static/v1?label=Apache&message=JMeter&color=yellow)
-
-[JMeter Bug 64302](https://github.com/ZhuangZhu-74/find_invalid_link)
+[![开源项目贡献](https://img.shields.io/static/v1?label=Apache%20JMeter&message=Bug%2064302&color=yellow)](https://github.com/ZhuangZhu-74/find_invalid_link)
 
 ### 立场
 
@@ -22,7 +20,7 @@
 ```text
 现在寻找一份自动化测试或测试开发的工作，工资 9~14k。要求工作生活平衡。
 
-注1. 自动化测试（UI、接口）是我在幕课网学习了相关的课程，已经了解并掌握了相关的工具等。
+注意： 自动化测试（UI、接口）是我在慕课网学习了相关的课程，已经了解并掌握了相关的常用工具及方法。
 ```
 
 ### 联系信息
@@ -30,6 +28,16 @@
 `2477441814 at qq.com`
 
 <!--
+注意空格 用 %20 代替，实在不会去 https://img.shields.io/ 生成
+
+普通标签：
+
+![](https://img.shields.io/static/v1?label=左侧标签&message=右侧信息&color=右侧底色)
+
+带有链接的特殊标签语法：
+
+[![标签提示文字](https://img.shields.io/static/v1?label=左侧标签&message=右侧信息&color=右侧底色)](超链接)
+
 **ZhuangZhu-74/ZhuangZhu-74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
