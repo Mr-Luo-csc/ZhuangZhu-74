@@ -17,11 +17,14 @@
 
 ### 求职
 
-```text
-现在寻找一份自动化测试或测试开发的工作，工资 9~14k。要求工作生活平衡。
+
+现在寻找一份自动化测试或测试开发的工作，工资 `9~14k` 要求工作生活平衡。
 
 注意： 自动化测试（UI、接口）是我在慕课网学习了相关的课程，已经了解并掌握了相关的常用工具及方法。
-```
+
+- [练习项目：基于 PO 模型与 ddt 对在线计算器执行简易的 UI 测试](https://github.com/ZhuangZhu-74/open/tree/master/modern)
+- [练习项目：基于 requests 和 ddt 的 接口测试](https://github.com/ZhuangZhu-74/open/tree/master/ApiPractice)
+
 
 ### 联系信息
 
