@@ -1,5 +1,10 @@
 ## Hello visitor 👋
 
+### 统计信息
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=ZhuangZHu-74&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/ZhuangZhu-74)
+
+
 ### 我的技术
 
 - [测试相关文章](https://github.com/ZhuangZhu-74/open)
